@@ -10,7 +10,12 @@
 
 
 
-
+## 🔥🔥Great Inexpensive Training Resources🔥🔥
+-[TCM Security](https://itdad.info/TCM)
+-[Pluralsight](https://itdad.info/Pluralsight)
+-[The Linux Foundation](https://itdad.info/LearnLinux)
+-[Hack The Box](https://itdad.info/HackTheBox)
+-[INE](https://itdad.info/ine)
 
 
 ## Basic courses for mentioning
