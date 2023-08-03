@@ -14,7 +14,7 @@
 
 
 ## Basic courses for mentioning
-> [Resourses that can help]https://github.com/paulveillard/cybersecurity)
+> [Resourses that can help](https://github.com/paulveillard/cybersecurity)
 ## Module 1 - Basics
 
 | S.No          | Course Name   |
