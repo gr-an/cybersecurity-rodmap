@@ -11,15 +11,31 @@
 - [For Legends (Network automation and Programming)](http://www.pkt.edu.my/pdf_sys/home/pdf/165)
 
 ## Operation Systems 
+- [Basic OS course](https://www.javatpoint.com/best-courses-for-the-operating-system)
+- [Process synchronisation in operating system](https://www.youtube.com/playlist?list=PLhqPDa2HoaAa-8ZXIfqMv79GikkRIbrrm)
+- [Memory Management in Operating System | Virtual Memory | Paging](https://www.youtube.com/playlist?list=PLhqPDa2HoaAYXNWaBG3sJy0SEI2cyt2Du)
+- [Process scheduling algorithms in operating system | FCFS | SJF | ](https://www.youtube.com/playlist?list=PLhqPDa2HoaAbe5MBgsbNhlMKYUZSJmXKj)
 - [Good to review](https://ptgmedia.pearsoncmg.com/images/9781587145148/samplepages/9781587145148_Sample.pdf)
-
+- [OS Notes](https://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
+- [Become a kernel GOOD](https://github.com/cirosantilli/linux-kernel-module-cheat)
+- [Become x86 GOOD](https://github.com/cirosantilli/x86-bare-metal-examples#real-mode-segmentation)
+- [Some Cool stuff](https://wiki.osdev.org/Main_Page)
 
 ## Cryptography and Network Security
 - [Basic course](https://www.youtube.com/watch?v=JoeiLuFNBc4&list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
 
+## Programming
+- [Notes of an Legend](http://www.codersnotes.com/notes/)
 
 
-
+## Some uny courses 
+- [Cornell University - CS4410](http://www.cs.cornell.edu/courses/cs4410/2017sp/)
+- [Stanford University - CS140](http://www.scs.stanford.edu/17wi-cs140/)
+- [University of Virginia - CS4414](http://www.rust-class.org/)
+- [Jacobs University - CO20-320202](http://cnds.eecs.jacobs-university.de/courses/os-2016/)
+- [Duke University - CPS 210](https://users.cs.duke.edu/~chase/cps210/)
+- [University of Texas- CS372](http://www.cs.utexas.edu/users/dahlin/Classes/UGOS/)
+- [Massachussetts Institute of Technology - 6.828](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/index.html)
 
 ## 🔥🔥Great Inexpensive Training Resources🔥🔥
 - [TCM Security](https://itdad.info/TCM)
