@@ -5,21 +5,38 @@
 - [Networking course](https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
 - [Networking Foundamentals](https://www.youtube.com/watch?v=qiQR5rTSshw&pp=ygUVbmV0d29ya2luZyBmb3VuZGF0aW9u)
 - [CompTIA A+ Full Course (Optional for starters)](https://www.youtube.com/watch?v=1CZXXNKAY5o&pp=ygUVbmV0d29ya2luZyBmb3VuZGF0aW9u)
-- [Advanced network (If U need to become GOOD!)](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf)
+- [Advanced network (If U need to become GOD!)](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf)
 - [Good to review book](https://ptgmedia.pearsoncmg.com/images/9780789749048/samplepages/0789749041.pdf)
 - [Another good to review book](https://ptgmedia.pearsoncmg.com/images/9781587145148/samplepages/9781587145148_Sample.pdf)
 - [For Legends (Network automation and Programming)](http://www.pkt.edu.my/pdf_sys/home/pdf/165)
 
-## Operation Systems 
+## Operating Systems 
 - [Basic OS course](https://www.javatpoint.com/best-courses-for-the-operating-system)
+- [Some good courses](https://www.classcentral.com/subject/operating-systems)
 - [Process synchronisation in operating system](https://www.youtube.com/playlist?list=PLhqPDa2HoaAa-8ZXIfqMv79GikkRIbrrm)
 - [Memory Management in Operating System | Virtual Memory | Paging](https://www.youtube.com/playlist?list=PLhqPDa2HoaAYXNWaBG3sJy0SEI2cyt2Du)
 - [Process scheduling algorithms in operating system | FCFS | SJF | ](https://www.youtube.com/playlist?list=PLhqPDa2HoaAbe5MBgsbNhlMKYUZSJmXKj)
 - [Good to review](https://ptgmedia.pearsoncmg.com/images/9781587145148/samplepages/9781587145148_Sample.pdf)
 - [OS Notes](https://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
-- [Become a kernel GOOD](https://github.com/cirosantilli/linux-kernel-module-cheat)
-- [Become x86 GOOD](https://github.com/cirosantilli/x86-bare-metal-examples#real-mode-segmentation)
+- [Become a kernel GOD](https://github.com/cirosantilli/linux-kernel-module-cheat)
+- [Become x86 GOD](https://github.com/cirosantilli/x86-bare-metal-examples#real-mode-segmentation)
 - [Some Cool stuff](https://wiki.osdev.org/Main_Page)
+
+## Operating System books
+- [Another Resource list](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Operating Systems: Three easy peaces](https://github.com/mthipparthi/operating-systems-three-easy-pieces/tree/master)
+- [CompTIA A+ Core2](https://comptiacdn.azureedge.net/webcontent/docs/default-source/booksamples/comptia_apluscore2studyguide---sample.pdf?sfvrsn=d79323ed_2)
+- [Tanenbaum: Modern Operating Systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)
+- [Pintos](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring19/pintos/pintos.html#SEC_Contents)
+- [CheetSheet](https://ocw.unican.es/pluginfile.php/2309/course/section/2243/1.%20Introduction.pdf)
+
+## Windows and Windows AD 
+- [Windows Sysadmin course](https://www.youtube.com/watch?v=_MXFcqnP-R4&list=PLCx2yzVkUQQVzH8GNBOhC0tRFlNpkE1oC)
+- [Windows Internals](https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/Windows%20System%20Internals%207e%20Part%201.pdf)
+- [Windows AD resources]()
+- [Windows AD Course](https://www.youtube.com/watch?v=OTpbQkW3kj4&list=PL1l78n6W8zypXtkh3uWIXbPssc4IGbfb5)
+- [Windows AD Course](https://www.youtube.com/watch?v=_Yuu4RaMWDY&pp=ygULd2luZG93cyBBRCA%3D)
+- [Windows Pentest tutorial](https://www.youtube.com/watch?v=f8jGhLwCa28&pp=ygULd2luZG93cyBBRCA%3D)
 
 ## Cryptography and Network Security
 - [Basic course](https://www.youtube.com/watch?v=JoeiLuFNBc4&list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
