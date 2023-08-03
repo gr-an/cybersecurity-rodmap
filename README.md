@@ -43,7 +43,26 @@
 
 ## Programming
 - [Notes of an Legend](http://www.codersnotes.com/notes/)
+- [LeetCode](https://leetcode.com/)
+- [CodeWars](https://www.codewars.com/)
+- [Python: Learn by documentation :|]()
+- [Golang: Learn by documentation :(]()
 
+## Cybersecurity courses and books
+- [Nathan House’s The Complete Cyber Security Course at Udemy.](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-cALuEKJVo1e28KJFO9Bexw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+- [Cyber Security Course for Beginners - Level 01](https://www.udemy.com/course/certified-secure-netizen/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-UPVFQdboFzhHcRUkQadFBg&LSNPUBID=CuIbQrBnhiw&utm_source=aff-campaign&utm_medium=udemyadsi)
+- [The Art Of Invisibility](https://digtvbg.com/files/books-for-hacking/Kevin%20Mitnic/The%20Art%20of%20Invisibility%20-%20The%20World%27s%20Most%20Famous%20Hacker%20Teaches%20You%20How%20to%20Be%20Safe%20in%20the%20Age%20of%20Big%20Brother%20and%20Big%20Data%20by%20Kevin%20Mitnick.pdf)
+- [HACKING: THE ART OF EXPLOITATION](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
+- [HACKING: THE ART OF EXPLOITATION: Other source](https://ia800807.us.archive.org/29/items/hacking-the-art-of-exploitation/hacking-the-art-of-exploitation.pdf)
+- [Practical Malware Analysis](https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf)
+- [GHOST in the WIRES (More for fun)](https://bibliocecifi.files.wordpress.com/2017/05/ghost-in-the-wires-kevin-mitnick.pdf)
+- [Hacking Exposed: Network Security secrets and solutions](https://doc.lagout.org/security/McGraw-Hill%20-%20Hacking%20Exposed%2C%203rd%20Ed%20-%20Hacking%20Exposed%20Win2.pdf)
+- [Threat Modeling](https://terrorgum.com/tfox/books/threat_modeling_designing_for_security.pdf)
+- [Applied cryptography](https://mrajacse.files.wordpress.com/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf)
+- [http://www.mongroupsydney1.com/CompTIASecurity+GetCertifiedGetAhead.pdf](Security+)
+- [Metasploit](https://olinux.net/wp-content/uploads/2019/01/Metasploit-The-Penetration-Tester-s-Guide.pdf)
+
+##[List of CTF resources](https://ctfsites.github.io/)
 
 ## Some uny courses 
 - [Cornell University - CS4410](http://www.cs.cornell.edu/courses/cs4410/2017sp/)
