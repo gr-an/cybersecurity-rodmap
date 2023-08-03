@@ -3,8 +3,19 @@
 
 ## Networking Skills - ITProTV Comptia Network 
 - [Networking course](https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
+- [Networking Foundamentals](https://www.youtube.com/watch?v=qiQR5rTSshw&pp=ygUVbmV0d29ya2luZyBmb3VuZGF0aW9u)
+- [CompTIA A+ Full Course (Optional for starters)](https://www.youtube.com/watch?v=1CZXXNKAY5o&pp=ygUVbmV0d29ya2luZyBmb3VuZGF0aW9u)
+- [Advanced network (If U need to become GOOD!)](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf)
+- [Good to review book](https://ptgmedia.pearsoncmg.com/images/9780789749048/samplepages/0789749041.pdf)
+- [Another good to review book](https://ptgmedia.pearsoncmg.com/images/9781587145148/samplepages/9781587145148_Sample.pdf)
+- [For Legends (Network automation and Programming)](http://www.pkt.edu.my/pdf_sys/home/pdf/165)
+
+## Operation Systems 
+- [Good to review](https://ptgmedia.pearsoncmg.com/images/9781587145148/samplepages/9781587145148_Sample.pdf)
 
 
+## Cryptography and Network Security
+- [Basic course](https://www.youtube.com/watch?v=JoeiLuFNBc4&list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
 
 
 
@@ -19,7 +30,21 @@
 
 
 ## Basic courses for mentioning
+> [Cyber Security Basics] (https://www.youtube.com/watch?v=lpa8uy4DyMo&pp=ygUdbmV0d29ya2luZyBmb3IgY3liZXIgc2VjdXJpdHk%3D)
+> [Ethical Hacking Course](https://www.youtube.com/watch?v=lpa8uy4DyMo&pp=ygUdbmV0d29ya2luZyBmb3IgY3liZXIgc2VjdXJpdHk%3D)
 > [Resourses that can help](https://github.com/paulveillard/cybersecurity)
+
+# System Design (More for those who dont want to stock in Interview)
+- [Top 10 System Design Interview Questions and Answers](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+- [5 Common System Design Concepts for Interview Preparation](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/)
+- [How to Crack the System Design Round in Interviews?](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
+- [Load Balancer – System Design Interview Question](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
+- [Design Twitter – System Design Interview Question](https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/)
+- [8 Most Important Steps To Follow in System Design Round of Interviews](https://www.geeksforgeeks.org/8-most-important-steps-to-follow-in-system-design-round-of-interviews/)
+- [5 Tips to Crack Low-Level System Design Interviews](https://www.geeksforgeeks.org/5-tips-to-crack-low-level-system-design-interviews/)
+- [Design BookMyShow – A System Design Interview Question](https://www.geeksforgeeks.org/design-bookmyshow-a-system-design-interview-question/)
+- [Design Dropbox – A System Design Interview Question](https://www.geeksforgeeks.org/design-dropbox-a-system-design-interview-question/)
+
 ## Module 1 - Basics
 
 | S.No          | Course Name   |
